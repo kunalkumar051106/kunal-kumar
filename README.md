@@ -22,7 +22,7 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" alt="kunal kumar GitHub stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kunal kumar&show_icons=true&theme=tokyonight" height="150"/>
 </p>
 
 ---
