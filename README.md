@@ -1,4 +1,4 @@
-# Hi there 👋 I'm K. Singh
+# Hi there 👋 I'm Kunal Kumar
 
 ## Data Analyst | SQL | Excel | Power BI | Python
 
